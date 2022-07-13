@@ -4,8 +4,8 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_NAME).then(function(cache) {
             return cache.addAll([
-                '/pwa-test/',
-                '/pwa-test/index.html',
+                'pwa-test/',
+                'pwa-test/index.html',
             ]);
         })
     )
