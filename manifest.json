@@ -39,6 +39,21 @@
             "src": "img/icon.png",
             "sizes": "512x512",
             "type": "image/png"
-        }
+        },
+        {
+            "src": "img/icon-ios@120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-ios@180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-ios@192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
     ]
 }
