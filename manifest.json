@@ -1,6 +1,6 @@
 {
-    "name": "PwaTest",
-    "short_name": "PwaTest",
+    "name": "PWA Test",
+    "short_name": "PWA Test",
     "theme_color": "#E41021",
     "background_color": "#E41021",
     "display": "standalone",
