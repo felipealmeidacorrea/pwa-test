@@ -1,0 +1,10 @@
+@import '../abstract/variables';
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    p {
+        max-width: 1024px;
+    }
+}

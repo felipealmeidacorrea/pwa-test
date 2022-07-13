@@ -1,0 +1,10 @@
+@import '../abstract/variables';
+header {
+    width: 100%;
+    background-color: $main-color;
+    font-size: 24px;
+    padding: 10px 0;
+    text-align: center;
+    color: $secundary-color;
+    font-weight: 600;
+}
